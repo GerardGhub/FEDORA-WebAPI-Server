@@ -179,7 +179,6 @@
     <Compile Include="Controllers\MacroController.cs" />
     <Compile Include="Controllers\MaterialIssueController.cs" />
     <Compile Include="Controllers\MaterialReceiptController.cs" />
-    <Compile Include="Controllers\MicroController.cs" />
     <Compile Include="Controllers\MoveOrderController.cs" />
     <Compile Include="Controllers\PlateNumberController.cs" />
     <Compile Include="Controllers\PoSummaryController.cs" />
